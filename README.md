@@ -7,6 +7,6 @@ you will recieve from each jewel.
 -------------------------------------------------
 Currently only supports Infantry, Range and Cavalry Jewels.
 ---------------Future imporvements will add-------------------
-~Terror Jewels, Wyrm Jewels, Gargantua Jewels, Champion Jewels~
-~Support to check current gear stats versus proposed jewels~
-~Support to set up jewels for fort gear sets(i.e; 424/442)~
+-Terror Jewels, Wyrm Jewels, Gargantua Jewels, Champion Jewels~
+-Support to check current gear stats versus proposed jewels~
+-Support to set up jewels for fort gear sets(i.e; 424/442)~
